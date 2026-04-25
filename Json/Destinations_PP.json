@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "name": "Paris",
+        "slug": "paris",
+        "image": "src/assets/AboutPage/destination-01.jpg",
+        "country": "France",
+        "banner": "/src/assets/section-banner.jpg",
+        "description": "Paris is a dynamic country where skyscrapers meet traditional culture...",
+        "Detail_Img": [
+            {
+                "img": "/images/destinationdetails-image01.jpg",
+                "alt": "Destination 1"
+            },
+            {
+                "img": "/images/destinationdetails-image02.jpg",
+                "alt": "Destination 2"
+            },
+            {
+                "img": "/images/destinationdetails-image03.jpg",
+                "alt": "Destination 3"
+            }
+        ],
+        "features": [
+            "Explaining historical places",
+            "Cultural experiences",
+            "Local transport guidance",
+            "Dining & safety tips",
+            "Custom travel planning"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Maldives",
+        "slug": "maldives",
+        "image": "/src/assets/AboutPage/destination-02.jpg",
+        "Detail_Img": [
+            {
+                "img": "/images/destinationdetails-image01.jpg",
+                "alt": "Destination 1"
+            },
+            {
+                "img": "/images/destinationdetails-image02.jpg",
+                "alt": "Destination 2"
+            },
+            {
+                "img": "/images/destinationdetails-image03.jpg",
+                "alt": "Destination 3"
+            }
+        ],
+        "country": "Maldives",
+        "banner": "/src/assets/section-banner.jpg",
+        "description": "Maldives is a dynamic country where skyscrapers meet traditional culture...",
+        "features": [
+            "Explaining historical places",
+            "Cultural experiences",
+            "Local transport guidance",
+            "Dining & safety tips",
+            "Custom travel planning"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Hong Kong",
+        "slug": "hong-kong",
+        "image": "/src/assets/AboutPage/destination-03.jpg",
+        "country": "China",
+        "banner": "/src/assets/section-banner.jpg",
+        "description": "Hong Kong is a dynamic country where skyscrapers meet traditional culture...",
+        "Detail_Img": [
+            {
+                "img": "/images/destinationdetails-image01.jpg",
+                "alt": "Destination 1"
+            },
+            {
+                "img": "/images/destinationdetails-image02.jpg",
+                "alt": "Destination 2"
+            },
+            {
+                "img": "/images/destinationdetails-image03.jpg",
+                "alt": "Destination 3"
+            }
+        ],
+        "features": [
+            "Explaining historical places",
+            "Cultural experiences",
+            "Local transport guidance",
+            "Dining & safety tips",
+            "Custom travel planning"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "England",
+        "slug": "england",
+        "image": "/src/assets/AboutPage/destination-04.jpg",
+        "country": "England",
+        "banner": "/src/assets/section-banner.jpg",
+        "description": "England is a dynamic country where skyscrapers meet traditional culture...",
+        "Detail_Img": [
+            {
+                "img": "/images/destinationdetails-image01.jpg",
+                "alt": "Destination 1"
+            },
+            {
+                "img": "/images/destinationdetails-image02.jpg",
+                "alt": "Destination 2"
+            },
+            {
+                "img": "/images/destinationdetails-image03.jpg",
+                "alt": "Destination 3"
+            }
+        ],
+        "features": [
+            "Explaining historical places",
+            "Cultural experiences",
+            "Local transport guidance",
+            "Dining & safety tips",
+            "Custom travel planning"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Angkor Wat",
+        "slug": "angkor-wat",
+        "image": "/src/assets/AboutPage/destination-05.jpg",
+        "country": "Cambodia",
+        "banner": "/src/assets/section-banner.jpg",
+        "description": "Angkor Wat is a dynamic city where skyscrapers meet traditional culture...",
+        "Detail_Img": [
+            {
+                "img": "/assets/PopularToursPage/destinationdetails-image01.jpg",
+                "alt": "Destination 1"
+            },
+            {
+                "img": "/assets/PopularToursPage/destinationdetails-image02.jpg",
+                "alt": "Destination 2"
+            },
+            {
+                "img": "/assets/PopularToursPage/destinationdetails-image03.jpg",
+                "alt": "Destination 3"
+            }
+        ],
+        "features": [
+            "Explaining historical places",
+            "Cultural experiences",
+            "Local transport guidance",
+            "Dining & safety tips",
+            "Custom travel planning"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Tokyo",
+        "slug": "tokyo",
+        "country": "Japan",
+        "image": "/src/assets/AboutPage/destination-06.jpg",
+        "banner": "/src/assets/section-banner.jpg",
+        "description": "Tokyo is a dynamic city where skyscrapers meet traditional culture...",
+        "Detail_Img": [
+            {
+                "img": "/assets/PopularToursPage/destinationdetails-image01.jpg",
+                "alt": "Destination 1"
+            },
+            {
+                "img": "/assets/PopularToursPage/destinationdetails-image02.jpg",
+                "alt": "Destination 2"
+            },
+            {
+                "img": "/assets/PopularToursPage/destinationdetails-image03.jpg",
+                "alt": "Destination 3"
+            }
+        ],
+        "features": [
+            "Explaining historical places",
+            "Cultural experiences",
+            "Local transport guidance",
+            "Dining & safety tips",
+            "Custom travel planning"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Spain",
+        "slug": "spain",
+        "image": "/src/assets/AboutPage/destination-07.jpg",
+        "country": "Spain",
+        "banner": "/src/assets/section-banner.jpg",
+        "description": "Spain is a dynamic city where skyscrapers meet traditional culture...",
+        "Detail_Img": [
+            {
+                "img": "/assets/PopularToursPage/destinationdetails-image01.jpg",
+                "alt": "Destination 1"
+            },
+            {
+                "img": "/assets/PopularToursPage/destinationdetails-image02.jpg",
+                "alt": "Destination 2"
+            },
+            {
+                "img": "/assets/PopularToursPage/destinationdetails-image03.jpg",
+                "alt": "Destination 3"
+            }
+        ],
+        "features": [
+            "Explaining historical places",
+            "Cultural experiences",
+            "Local transport guidance",
+            "Dining & safety tips",
+            "Custom travel planning"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "California",
+        "slug": "california",
+        "image": "/src/assets/AboutPage/destination-08.jpg",
+        "country": "USA",
+        "banner": "/src/assets/section-banner.jpg",
+        "description": "California is a diverse state known for its beaches, mountains, and vibrant culture...",
+        "Detail_Img": [
+            {
+                "img": "/assets/PopularToursPage/destinationdetails-image01.jpg",
+                "alt": "Destination 1"
+            },
+            {
+                "img": "/assets/PopularToursPage/destinationdetails-image02.jpg",
+                "alt": "Destination 2"
+            },
+            {
+                "img": "/assets/PopularToursPage/destinationdetails-image03.jpg",
+                "alt": "Destination 3"
+            }
+        ],
+        "features": [
+            "Explaining historical places",
+            "Cultural experiences",
+            "Local transport guidance",
+            "Dining & safety tips",
+            "Custom travel planning"
+        ]
+    }
+]
