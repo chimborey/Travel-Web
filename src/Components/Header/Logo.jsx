@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import CKC from '../../assets/CKC.jpg'
+import CKC from '../../assets/CkC.jpg'
 const Logo = () => {
   return (
     <Link to={'/'} className=' flex items-center gap-1 cursor-pointer'>
